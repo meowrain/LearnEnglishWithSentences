@@ -1,0 +1,2 @@
+python-dotenv
+ttkbootstrap==1.10.1
