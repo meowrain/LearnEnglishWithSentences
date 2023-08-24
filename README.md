@@ -1,7 +1,14 @@
 # LearnEnglishWithSentences
+> 一个用例句学单词的python应用，使用tkinter构建gui
+> 欢迎使用本项目喵~😊
+<div>
 
-<div align="center">
-欢迎使用本项目喵~😊
+  
+<白天模式>
+<img src="image/README/1692853087082.png">
+
+<夜间模式>
+
 <img src="image/README/1692858802047.png">
 </div>
 
@@ -38,5 +45,3 @@ pip install -r requirements
 python main.py
 ```
 
-就能看到这个页面了，点击关于查看帮助
-![1692853087082](image/README/1692853087082.png)
