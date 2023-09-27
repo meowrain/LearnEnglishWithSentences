@@ -15,7 +15,6 @@ def createGptTranslatePage(root, text, icon_path):
     gpt_page = ttk.Toplevel(root)
     new_font = ttk.font.Font(family="Microsoft YaHei", size=12)
     gpt_page.title("GPT例句产生器")
-    gpt_page.iconbitmap(icon_path)
     menu_bar = ttk.Menu(gpt_page)
     file_menu = ttk.Menu(menu_bar, tearoff=0)
     menu_bar.add_cascade(label="文件", menu=file_menu)

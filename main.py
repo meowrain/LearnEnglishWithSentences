@@ -56,7 +56,6 @@ if __name__ == '__main__':
     icon_path = os.path.join(script_dir, "favicon.ico")
     root = ttk.Window(title="单词翻译器", themename="darkly")
     style = ttk.Style('darkly')
-    root.iconbitmap(icon_path)
     text = ttk.Text(root, wrap=ttk.WORD)
     new_font = ttk.font.Font(family="Microsoft YaHei", size=12)
     text.configure(font=new_font)
